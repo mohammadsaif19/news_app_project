@@ -1,6 +1,7 @@
-# news_project
+# Advanced News app project
 
-A new Flutter project.
+### This is a news app project and it's included multi-language, unit testing, integration testing, bloc, and provider for state-management and so much more other features
+
 
 ## Getting Started
 
