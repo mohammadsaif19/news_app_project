@@ -8,8 +8,22 @@
 <img src="assets/screenshots/5.PNG" width=200, height=400> <img src="assets/screenshots/6.PNG" width=200, height=400>
 <img src="assets/screenshots/7.PNG" width=200, height=400>
 
+# Demonstration vidoes
+ - ### Demonstrated the whole app on a real device by covering all the use-cases
+
+https://user-images.githubusercontent.com/50182597/162280402-65c77d7f-b9fb-4371-b029-3001c1a7d142.mp4
+
+
+ - ### Running Integration test of the app with all the most used use-cases
+
+
+https://user-images.githubusercontent.com/50182597/162279112-76ccc348-d25f-4b71-a277-9f4775dfcda9.mp4
 
 ## Getting Started
+
+
+
+
 
 This project is a starting point for a Flutter application.
 
