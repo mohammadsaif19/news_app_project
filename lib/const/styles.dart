@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'colors.dart';
 
-// This is basic but mose used text style
+// This is basic but most used text style
 TextStyle titleTextStyle() => TextStyle(
       color: ColorPalette.textColor,
       fontSize: 25,

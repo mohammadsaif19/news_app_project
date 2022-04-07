@@ -14,4 +14,4 @@ void main() {
   });
 }
 
-// Please run "flutter test" cmd in terminal to run the above unit test for news service api
+// Please click on Run or play icon to run the above unit test for news service api
