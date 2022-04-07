@@ -1,6 +1,12 @@
 # Advanced News app project
 
-### This is a news app project and it's included multi-language, unit testing, integration testing, bloc, and provider for state-management and so much more other features
+### This is a dynamic news app project and it's included multi-language, unit testing, integration testing, bloc, and provider for state-management, pagination and so much more other features!
+
+# Screenshots
+<img src="assets/screenshots/1.PNG" width=200, height=400> <img src="assets/screenshots/2.PNG" width=200, height=400>
+<img src="assets/screenshots/3.PNG" width=200, height=400> <img src="assets/screenshots/4.jpeg" width=200, height=400>
+<img src="assets/screenshots/5.PNG" width=200, height=400> <img src="assets/screenshots/6.PNG" width=200, height=400>
+<img src="assets/screenshots/7.PNG" width=200, height=400>
 
 
 ## Getting Started
