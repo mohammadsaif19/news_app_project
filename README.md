@@ -15,7 +15,13 @@ https://user-images.githubusercontent.com/50182597/162280402-65c77d7f-b9fb-4371-
 
 
  - ### Running Integration test of the app with all the most used use-cases
-
+ - ##### Please run this following cmd inside the project terminal to run the integration test
+  
+```sh
+  flutter drive \
+  --driver=test_pilot/pilot.dart \
+  --target=test/integration_test.dart
+```
 
 https://user-images.githubusercontent.com/50182597/162279112-76ccc348-d25f-4b71-a277-9f4775dfcda9.mp4
 
